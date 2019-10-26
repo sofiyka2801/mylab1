@@ -1,0 +1,5 @@
+word = input("введіть слово:")
+word = (word[::-1])
+number = (input("введіть циферки:"))
+number = (number[::-1])
+print(word+number)
